@@ -1,0 +1,9 @@
+.search-container {
+  padding: 10px;
+}
+.search-inputWrapper {
+  align-items: center;
+  display: flex;
+  height: 30px;
+  padding: 5px 20px;
+}

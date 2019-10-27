@@ -1,0 +1,8 @@
+.vehicle-container {
+  padding: 10px 30px;
+}
+.vehicle-header {
+  display: inline;
+  font-size: 20px;
+  margin-right: 10px;
+}

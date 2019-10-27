@@ -1,0 +1,8 @@
+.map {
+  border: 1px solid red;
+  width: 40%;
+}
+#google-map {
+  padding-top: 100%;
+  width: 100%;
+}
